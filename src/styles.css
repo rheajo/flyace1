@@ -1,1 +1,69 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body
+{
+    background-color: rgb(241, 235, 235);
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+    
+}
+
+
+.navigation{
+    overflow: hidden;
+    border-width: 10px;
+    height: 90px;
+ 
+    background-color:mediumpurple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    
+}
+.navigation img{
+    float: left;
+    padding: 15px;
+    width: 100px;
+    height: 65px;
+}
+.navigation a
+{
+    float: left;
+    color: white;
+    text-align:justify;
+    padding: 40px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+
+
+
+
+
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+   
+    width: 100%;
+    height: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    background-color:grey;
+    color: white;
+    text-align: center;
+  }
+  
+    
+
+    
+    
+    
